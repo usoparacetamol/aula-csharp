@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Murillo\\OneDrive\\Documentos\\vscode\\aula-csharp\\aula.csproj": {}
+    "C:\\Users\\Murillo\\OneDrive\\Documentos\\vscode\\aula-csharp\\aula.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Murillo\\OneDrive\\Documentos\\vscode\\aula-csharp\\aula.csproj": {
+    "C:\\Users\\Murillo\\OneDrive\\Documentos\\vscode\\aula-csharp\\aula.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Murillo\\OneDrive\\Documentos\\vscode\\aula-csharp\\aula.csproj",
+        "projectUniqueName": "C:\\Users\\Murillo\\OneDrive\\Documentos\\vscode\\aula-csharp\\aula.csproj",
         "projectName": "aula",
-        "projectPath": "c:\\Users\\Murillo\\OneDrive\\Documentos\\vscode\\aula-csharp\\aula.csproj",
+        "projectPath": "C:\\Users\\Murillo\\OneDrive\\Documentos\\vscode\\aula-csharp\\aula.csproj",
         "packagesPath": "C:\\Users\\Murillo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Murillo\\OneDrive\\Documentos\\vscode\\aula-csharp\\obj\\",
+        "outputPath": "C:\\Users\\Murillo\\OneDrive\\Documentos\\vscode\\aula-csharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Murillo\\AppData\\Roaming\\NuGet\\NuGet.Config"
