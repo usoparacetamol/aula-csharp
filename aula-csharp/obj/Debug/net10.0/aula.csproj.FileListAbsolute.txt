@@ -12,3 +12,4 @@ C:\Users\Murillo\OneDrive\Documentos\vscode\aula-csharp\obj\Debug\net10.0\refint
 C:\Users\Murillo\OneDrive\Documentos\vscode\aula-csharp\obj\Debug\net10.0\aula.pdb
 C:\Users\Murillo\OneDrive\Documentos\vscode\aula-csharp\obj\Debug\net10.0\aula.genruntimeconfig.cache
 C:\Users\Murillo\OneDrive\Documentos\vscode\aula-csharp\obj\Debug\net10.0\ref\aula.dll
+c:\Users\Murillo\OneDrive\Documentos\vscode\aula-csharp\obj\Debug\net10.0\aula.sourcelink.json
